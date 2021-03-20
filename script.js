@@ -44,3 +44,5 @@ $(window).mousemove(function (evt) {
 });
 
 // ---------
+var s = skrollr.init();
+var s = skrollr.init();

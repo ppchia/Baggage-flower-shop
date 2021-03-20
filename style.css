@@ -317,3 +317,11 @@ input.textarea {
   margin-left: 10px;
   border: 1px #D3D7AC solid;
 }
+
+.ja {
+  width: 1000px;
+  height: 10px;
+  padding-top: 200px;
+  font-size: 18px;
+  letter-spacing: 6px;
+}
